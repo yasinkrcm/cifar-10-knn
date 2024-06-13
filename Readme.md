@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="#proje-icerigi">Proje İçeriği</a> •
-  <a href="#kullanilan-kutuphaneler">Kullanılan Kütüphaneler</a> •
+  <a href="#proje-içeriği">Proje İçeriği</a> •
+  <a href="#kullanılan-kütüphaneler">Kullanılan Kütüphaneler</a> •
   <a href="#veri-seti">Veri Seti</a> •
   <a href="#knn-modeli-ve-hiperparametre-optimizasyonu">KNN Modeli ve Hiperparametre Optimizasyonu</a> •
   <a href="#sonuçlar">Sonuçlar</a> •
